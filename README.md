@@ -40,7 +40,7 @@ php artisan migrate
 
  | atividade/05-foreignid 
 
- | Pendente |
+ | Concluído |
 | Atividade 6 - Regras de Exclusão 
 
  | atividade/06-regras-exclusao 
