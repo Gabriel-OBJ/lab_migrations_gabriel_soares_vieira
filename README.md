@@ -55,7 +55,7 @@ php artisan migrate
 
  | atividade/08-status-migrations 
 
- | Pendente |
+ | Concluído |
 | Atividade 9 - Relacionamento Completo 1:N 
 
  | atividade/09-relacionamentoin- 
