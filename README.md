@@ -60,7 +60,7 @@ php artisan migrate
 
  | atividade/09-relacionamentoin- 
 
- | Pendente |
+ | Concluído |
 | Atividade 10 - Diagnóstico de Erros 
 
  | atividade/10-diagnostico-erros 
