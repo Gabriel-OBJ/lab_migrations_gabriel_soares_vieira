@@ -30,7 +30,7 @@ php artisan migrate
 
  | atividade/03-tipos-de-dados 
 
- | Pendente |
+ | Concluído |
 | Atividade 4 - Chave Estrangeira Simples 
 
  | atividade/04-chave-estrangeira 
