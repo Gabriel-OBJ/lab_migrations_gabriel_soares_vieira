@@ -50,7 +50,7 @@ php artisan migrate
 
  | atividade/07-alteracao-tabela 
 
- | Pendente |
+ | Concluído |
 | Atividade 8 - Status das Migrations 
 
  | atividade/08-status-migrations 
