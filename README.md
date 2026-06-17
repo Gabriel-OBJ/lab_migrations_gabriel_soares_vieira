@@ -75,7 +75,7 @@ php artisan migrate
 
  | pratica/02-sistema-academico 
 
- | Pendente |
+ | Concluído |
 | Prática Avançada - Gestão de Projetos 
 
  | pratica/03-gestao-projetos 
