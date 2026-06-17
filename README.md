@@ -25,7 +25,7 @@ php artisan migrate
 
  | atividade/02-primeira-migration 
 
- | Pendente |
+ | Concluído |
 | Atividade 3 - Tipos de Dados 
 
  | atividade/03-tipos-de-dados 
