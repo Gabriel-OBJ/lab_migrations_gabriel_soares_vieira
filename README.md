@@ -35,7 +35,7 @@ php artisan migrate
 
  | atividade/04-chave-estrangeira 
 
- | Pendente |
+ | Concluído |
 | Atividade 5 - Uso do foreignId 
 
  | atividade/05-foreignid 
