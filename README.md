@@ -45,7 +45,7 @@ php artisan migrate
 
  | atividade/06-regras-exclusao 
 
- | Pendente |
+ | Concluído |
 | Atividade 7 - Alteração de Tabela 
 
  | atividade/07-alteracao-tabela 
