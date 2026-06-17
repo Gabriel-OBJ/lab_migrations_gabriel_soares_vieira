@@ -65,7 +65,7 @@ php artisan migrate
 
  | atividade/10-diagnostico-erros 
 
- | Pendente |
+ | Concluído |
 | Prática 1 - Sistema de Biblioteca 
 
  | pratica/01-biblioteca 
