@@ -13,8 +13,7 @@ return new class extends Migration
     {
         Schema::create('pedidos_items', function (Blueprint $table) {
             $table->id();
-            $table->unsignedBigInteger('pedido_id');
-            $table->foreign('pedido_id')->references('id')->on('pedidos_table');
+            $table->foreignId('pedido_id')->constrained('pedidos')->onDelete('cascade');
             $table->integer('quantidade');
             $table->decimal('preco', 8, 2);
             $table->timestamps();
