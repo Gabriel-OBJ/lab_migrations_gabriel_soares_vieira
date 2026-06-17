@@ -70,7 +70,7 @@ php artisan migrate
 
  | pratica/01-biblioteca 
 
- | Pendente |
+ | Concluído |
 | Prática 2 - Sistema Acadêmico 
 
  | pratica/02-sistema-academico 
