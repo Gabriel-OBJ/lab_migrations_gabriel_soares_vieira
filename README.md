@@ -80,4 +80,4 @@ php artisan migrate
 
  | pratica/03-gestao-projetos 
 
- | Pendente |
+ | Concluído |
