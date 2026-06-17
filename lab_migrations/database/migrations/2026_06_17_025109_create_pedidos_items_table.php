@@ -15,7 +15,7 @@ return new class extends Migration
             $table->id();
             $table->unsignedBigInteger('pedido_id');
             $table->foreign('pedido_id')->references('id')->on('pedidos_table');
-            $table->string('quantidade');
+            $table->integer('quantidade');
             $table->decimal('preco', 4);
             $table->timestamps();
         });
